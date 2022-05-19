@@ -1,7 +1,12 @@
 #id1{
+ main
     color: pink;
     background-color: green;
     font-family:cursive;
    
+    color: green;
+    background-color: blue;
+   font-family:cursive;
+main
     font-size: larger;
 }
